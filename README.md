@@ -15,4 +15,6 @@ Uso del libro en el juego:
 
 El libro va a tener 2 usos:
 
-Almacenar el Lore del juego Habilidades que el jugador podrá usar en el juego
+-Almacenar el Lore del juego Habilidades que el jugador podrá usar en el juego
+
+-Desbloquear nuevas habilidades 
