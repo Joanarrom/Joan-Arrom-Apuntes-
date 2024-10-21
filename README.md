@@ -18,3 +18,28 @@ El libro va a tener 2 usos:
 -Almacenar el Lore del juego Habilidades que el jugador podrá usar en el juego
 
 -Desbloquear nuevas habilidades 
+
+
+
+
+Historias Usuario:
+
+-Como jugador, quiero poder moverme libremente por las salas del nivel, para explorar los entornos y encontrar enemigos o recompensas. 
+
+-Como jugador, quiero poder atacar a los enemigos con un arma, para derrotarlos y avanzar por el nivel.
+
+-Como jugador, quiero ver una barra de vida en la pantalla, para saber cuánta salud me queda y cuándo estoy en peligro de morir.
+
+-Como jugador quiero tener algún modo de recuperar mi vida.
+
+-Como jugador, quiero encontrar enemigos  en las salas del nivel, para tener un desafío.
+
+-Como jugador, quiero enfrentarme a un desafío al final del nivel, para probar mis habilidades y obtener una recompensa tras derrotarlo.
+
+-Como jugador, quiero poder interactuar con objetos del entorno, como interruptores o puertas, para resolver pequeños puzles y avanzar a nuevas áreas del nivel.
+
+-Como jugador, quiero que el personaje muera si se queda sin salud para agregar un nivel de dificultad y desafío al juego.
+
+-Como jugador, quiero reiniciar desde un punto de control o desde el principio del nivel al morir, para poder seguir intentándolo y aprender de mis errores
+
+
